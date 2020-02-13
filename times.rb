@@ -7,6 +7,6 @@ def using_times
     puts "Well we're at #{what_number} now."
 end
 
-
+puts "We ended up with #{what_number}."
 
 
