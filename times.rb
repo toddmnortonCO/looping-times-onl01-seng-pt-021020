@@ -4,7 +4,7 @@ what_number = 50
     puts "What number are we at?"
 end
 
-using_times
+puts using_times
 
 # puts "We ended up with #{what_number}."
 
