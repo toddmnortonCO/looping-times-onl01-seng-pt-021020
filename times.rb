@@ -1,9 +1,8 @@
 
 7.times do
-    puts "What number are we at?"
+    puts "Wingardium Leviosa"
 end
 
-puts what_number
 
 # puts "We ended up with #{what_number}."
 
