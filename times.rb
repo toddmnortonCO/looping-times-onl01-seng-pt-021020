@@ -1,6 +1,5 @@
-what_number = 50
 
-4.times do
+7.times do
     puts "What number are we at?"
 end
 
